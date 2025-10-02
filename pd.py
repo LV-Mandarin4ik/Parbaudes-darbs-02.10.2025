@@ -32,10 +32,11 @@ if 10 <= n <= 20:
 else:
     print("Skaitlis nav no 10 līdz 20")   
     
-for i in range(1, 10):
+for i in range(1, 11):
     print(i)
     
 print("GitHub ir makoņu balstīta platforma, kas veidota uz Git versiju kontroles sistēmas, kas ļauj izstrādātājiem tiešsaistē uzglabāt, pārvaldīt un sadarboties programmatūras projektu izstrādē. Tas nodrošina centrālu vietu kodam, projektu vadības rīkiem, koda pārskatīšanai un lietotājam draudzīgu saskarni, lai komandas un indivīdi varētu piedalīties projektos.")
             
     
     
+
