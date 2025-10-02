@@ -21,7 +21,7 @@ else:
     
 ag = int(input("Ievadi savu vēcumu:"))
  
-if ag > 18: 
+if ag >= 18: 
      print("Pilngadīgs")
 else:
     print("Nepilngadīgs")        
@@ -39,4 +39,5 @@ print("GitHub ir makoņu balstīta platforma, kas veidota uz Git versiju kontrol
             
     
     
+
 
